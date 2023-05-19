@@ -1,0 +1,500 @@
+﻿query,entrezgene,name,symbol,alias,taxid,RGD
+AATK,690853,apoptosis-associated tyrosine kinase,Aatk,,10116,RGD:1590980
+ACADS,64304,acyl-CoA dehydrogenase short chain,Acads,Scad,10116,RGD:620514
+ACOD1,306127,aconitate decarboxylase 1,Acod1,"Irg1, RGD1563454",10116,RGD:1563454
+ACTC1,29275,"actin, alpha, cardiac muscle 1",Actc1,,10116,RGD:2026
+ACTN1,81634,"actinin, alpha 1",Actn1,,10116,RGD:70907
+ACTR5,362258,actin related protein 5,Actr5,,10116,RGD:1307958
+ACVR2A,29263,activin A receptor type 2A,Acvr2a,"Acvr2, rActR-II",10116,RGD:70911
+ADCK1,366698,aarF domain containing kinase 1,Adck1,,10116,RGD:1308263
+ADCY2,81636,adenylate cyclase 2,Adcy2,AC2,10116,RGD:619965
+ADCY8,29241,adenylate cyclase 8,Adcy8,Ac8,10116,RGD:2036
+ADRB1,24925,adrenoceptor beta 1,Adrb1,"B1AR, RATB1AR",10116,RGD:2059
+AGBL2,366124,AGBL carboxypeptidase 2,Agbl2,RGD1306827,10116,RGD:1306827
+AKAP6,64553,A-kinase anchoring protein 6,Akap6,mAkap,10116,RGD:69412
+AKT3,29414,AKT serine/threonine kinase 3,Akt3,Pkbg,10116,RGD:62390
+AMBRA1,59319,autophagy and beclin 1 regulator 1,Ambra1,Nyw1,10116,RGD:621330
+ANAPC4,305420,anaphase promoting complex subunit 4,Anapc4,,10116,RGD:1306572
+ANKRD55,361898,ankyrin repeat domain 55,Ankrd55,RGD1307735,10116,RGD:1307735
+ANKS1B,314721,ankyrin repeat and sterile alpha motif domain containing 1B,Anks1b,"AIDA-1, EB-1, RGD1565556",10116,RGD:1565556
+ANO2,100361584,anoctamin 2,Ano2,,10116,RGD:1591606
+ARL3,64664,ADP ribosylation factor like GTPase 3,Arl3,,10116,RGD:69327
+ARPP21,363153,cAMP regulated phosphoprotein 21,Arpp21,"Arpp-21, Ppp1r1c, Ppp1r1cl, RGD1307208, RGD1307215",10116,RGD:1593239
+ARRDC4,293019,arrestin domain containing 4,Arrdc4,"Ab1-209, LRRG00117",10116,RGD:1311763
+ASXL3,307555,ASXL transcriptional regulator 3,Asxl3,RGD1305869,10116,RGD:1305869
+ATP2A2,29693,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2,Atp2a2,"Serca2, SercaII",10116,RGD:2174
+ATP6V1G3,289407,ATPase H+ transporting V1 subunit G3,Atp6v1g3,,10116,RGD:1304635
+ATP9A,84011,ATPase phospholipid transporting 9A (putative),Atp9a,,10116,RGD:621421
+AURKB,114592,aurora kinase B,Aurkb,"ARK-2, Aim1, STK-1, Stk12",10116,RGD:621625
+BAG5,366734,BAG cochaperone 5,Bag5,Bag5l1,10116,RGD:1310847
+BAIAP2,117542,BAR/IMD domain containing adaptor protein 2,Baiap2,Irsp53,10116,RGD:619814
+BANK1,365948,B-cell scaffold protein with ankyrin repeats 1,Bank1,LRRGT00104,10116,RGD:1564639
+BBX,303970,BBX high mobility group box domain containing,Bbx,,10116,RGD:1309769
+BCL10,83477,"BCL10, immune signaling adaptor",Bcl10,,10116,RGD:620544
+BCL11B,314423,BCL11 transcription factor B,Bcl11b,Ctip2,10116,RGD:1311128
+BIN3,361065,bridging integrator 3,Bin3,,10116,RGD:1308253
+ARNTL,29657,basic helix-loop-helix ARNT like 1,Bmal1,Arntl,10116,RGD:62003
+BORCS6,497934,BLOC-1 related complex subunit 6,Borcs6,,10116,RGD:1563885
+BPTF,303617,bromodomain PHD finger transcription factor,Bptf,Falz,10116,RGD:1307039
+BRAF,114486,"B-Raf proto-oncogene, serine/threonine kinase",Braf,,10116,RGD:619908
+CACNA1C,24239,calcium voltage-gated channel subunit alpha1 C,Cacna1c,RATIVS302,10116,RGD:2245
+CACNA1I,56827,calcium voltage-gated channel subunit alpha1 I,Cacna1i,,10116,RGD:68944
+CACNA2D3,306243,calcium voltage-gated channel auxiliary subunit alpha2delta 3,Cacna2d3,,10116,RGD:631361
+CACNB2,116600,calcium voltage-gated channel auxiliary subunit beta 2,Cacnb2,Cacnlb2,10116,RGD:67385
+CALCOCO1,246047,calcium binding and coiled coil domain 1,Calcoco1,,10116,RGD:619812
+CAMTA1,362665,calmodulin binding transcription activator 1,Camta1,,10116,RGD:1562703
+CARMIL1,306941,capping protein regulator and myosin 1 linker 1,Carmil1,"Lrrc16, Lrrc16a",10116,RGD:1306623
+CCDC68,291530,coiled-coil domain containing 68,Ccdc68,RGD1561424,10116,RGD:1561424
+CD276,315716,Cd276 molecule,Cd276,"B7RP-2, B7h3",10116,RGD:727815
+CD320,362851,CD320 molecule,Cd320,"RGD1305860, TCblR",10116,RGD:1305860
+CELF4,307540,"CUGBP, Elav-like family member 4",Celf4,Brunol4,10116,RGD:1307630
+CHRNA3,25101,cholinergic receptor nicotinic alpha 3 subunit,Chrna3,,10116,RGD:2345
+CLU,24854,clusterin,Clu,"APOJ, CLI, DAG, RATTRPM2B, SGP-2",10116,RGD:3907
+CNGB3,500418,cyclic nucleotide gated channel subunit beta 3,Cngb3,"Cng6, RGD1565364",10116,RGD:1565364
+CNNM4,363216,cyclin and CBS domain divalent metal cation transport mediator 4,Cnnm4,,10116,RGD:1305571
+CNTN4,116658,contactin 4,Cntn4,"Axcam, Big-2",10116,RGD:621361
+COL22A1,315071,collagen type XXII alpha 1 chain,Col22a1,,10116,RGD:1309081
+CPT1C,308579,carnitine palmitoyltransferase 1c,Cpt1c,"CPT IC, CPT1-B, CPTI-B",10116,RGD:1305384
+CSE1L,362273,chromosome segregation 1 like,Cse1l,,10116,RGD:1307536
+CSMD1,364634,CUB and Sushi multiple domains 1,Csmd1,Mdcr1,10116,RGD:1305103
+CTNNA1,307505,catenin alpha 1,Ctnna1,Catna1,10116,RGD:1359485
+CTNND1,311163,catenin delta 1,Ctnnd1,"Catns, P120",10116,RGD:1305643
+CTSC,25423,cathepsin C,Ctsc,"CATC, DPP-I, DPPI",10116,RGD:2445
+CTTNBP2,282587,cortactin binding protein 2,Cttnbp2,"Cbp90, Cortbp2",10116,RGD:628691
+CXCL1,81503,C-X-C motif chemokine ligand 1,Cxcl1,"CINC-1, Gro1",10116,RGD:619869
+CYRIB,299909,CYFIP related Rac1 interactor B,Cyrib,"Fam49b, RGD1307697",10116,RGD:1307697
+DCC,25311,DCC netrin 1 receptor,Dcc,,10116,RGD:2492
+DDAH1,64157,dimethylarginine dimethylaminohydrolase 1,Ddah1,,10116,RGD:70968
+DEF8,307973,differentially expressed in FDCP 8 homolog,Def8,,10116,RGD:1309008
+DGKI,688705,"diacylglycerol kinase, iota",Dgki,rDGKi-3,10116,RGD:735049
+DMP1,25312,dentin matrix acidic phosphoprotein 1,Dmp1,DENTMAT,10116,RGD:2508
+DMRTA1,313352,DMRT-like family A1,Dmrta1,,10116,RGD:1309796
+DNM3,171574,dynamin 3,Dnm3,dynamin-2,10116,RGD:727949
+DOCK4,366608,dedicator of cytokinesis 4,Dock4,,10116,RGD:1561724
+DPP6,29272,dipeptidyl peptidase like 6,Dpp6,DPP VI,10116,RGD:68402
+DRAXIN,691317,dorsal inhibitory axon guidance protein,Draxin,,10116,RGD:1585098
+DRD2,24318,dopamine receptor D2,Drd2,,10116,RGD:2520
+DUSP29,361003,dual specificity phosphatase 29,Dusp29,Dupd1,10116,RGD:1310229
+ECPAS,313196,Ecm29 proteasome adaptor and scaffold,Ecpas,RGD1306148,10116,RGD:1306148
+EDIL3,688400,EGF like repeats and discoidin domains 3,Edil3,,10116,RGD:1588887
+EGR3,25148,early growth response 3,Egr3,EGR-3,10116,RGD:2545
+ENOX1,306038,ecto-NOX disulfide-thiol exchanger 1,Enox1,RGD1306118,10116,RGD:1306118
+EPHB1,24338,Eph receptor B1,Ephb1,"Ephb2, Erk, elk",10116,RGD:2556
+EPHX2,65030,epoxide hydrolase 2,Ephx2,,10116,RGD:620732
+ESR2,25149,estrogen receptor 2,Esr2,"ER-beta, ERbeta, Erb2",10116,RGD:2582
+FADS2,83512,fatty acid desaturase 2,Fads2,Fadsd6,10116,RGD:68339
+FAM120A,291019,family with sequence similarity 120A,Fam120a,RGD1306643,10116,RGD:1306643
+FAM174A,301634,"family with sequence similarity 174, member A",Fam174a,"Fam174, RGD1309973, Tmem157",10116,RGD:1309973
+FBXL17,316663,F-box and leucine-rich repeat protein 17,Fbxl17,,10116,RGD:1309773
+FBXW12,301015,F-box and WD repeat domain containing 12,Fbxw12,RGD1307859,10116,RGD:1307859
+FES,361597,"FES proto-oncogene, tyrosine kinase",Fes,RGD1564385,10116,RGD:1564385
+FGFR1,79114,Fibroblast growth factor receptor 1,Fgfr1,"FGFR-1, MFR, bFGF-R, bFGF-R-1, c-fgr",10116,RGD:620713
+FLNC,362332,filamin C,Flnc,"ABP-L, FLN-C",10116,RGD:1308807
+FOXB1,367106,forkhead box B1,Foxb1,,10116,RGD:1305217
+FOXP2,500037,forkhead box P2,Foxp2,RGD1559697,10116,RGD:1559697
+FURIN,54281,furin (paired basic amino acid cleaving enzyme),Furin,"Pace, Pcsk3",10116,RGD:3274
+GABBR2,83633,gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,Gpr51,10116,RGD:619864
+GID4,687192,GID complex subunit 4,Gid4,,10116,RGD:1588894
+GIGYF2,100362458,GRB10 interacting GYF protein 2,Gigyf2,,10116,RGD:2318130
+GJD2,50564,"gap junction protein, delta 2",Gjd2,"Cx36, Cxns, Gja9",10116,RGD:2694
+GLIS3,680671,GLIS family zinc finger 3,Glis3,RGD1565505,10116,RGD:1565505
+GMIP,306357,Gem-interacting protein,Gmip,RGD1565577,10116,RGD:1565577
+GNGT1,680149,G protein subunit gamma transducin 1,Gngt1,Hg3g1,10116,RGD:1595475
+GPC6,691984,glypican 6,Gpc6,,10116,RGD:1593308
+GPM6A,306439,glycoprotein m6a,Gpm6a,M6a,10116,RGD:631368
+GPR135,314213,G protein-coupled receptor 135,Gpr135,,10116,RGD:727844
+GRID1,79219,glutamate ionotropic receptor delta type subunit 1,Grid1,GluD1,10116,RGD:68366
+GRID2,79220,glutamate ionotropic receptor delta type subunit 2,Grid2,GluD2,10116,RGD:68368
+GRIK3,298521,glutamate ionotropic receptor kainate type subunit 3,Grik3,"GluK3, GluR7, gluR-7",10116,RGD:71027
+GRIN2A,24409,glutamate ionotropic receptor NMDA type subunit 2A,Grin2a,"GluN2A, NMDAR2A, NR2A",10116,RGD:2737
+GRM3,24416,glutamate metabotropic receptor 3,Grm3,mGluR3,10116,RGD:2744
+GRM5,24418,glutamate metabotropic receptor 5,Grm5,"mGluR5, mGlur5",10116,RGD:2746
+GRM7,81672,glutamate metabotropic receptor 7,Grm7,,10116,RGD:619857
+GRM8,60590,glutamate metabotropic receptor 8,Grm8,"Glur8, Gprc1h, Mglur8, mGluR8b, mGlur",10116,RGD:619858
+GSDME,353316,gasdermin E,Gsdme,"Dfna5, Dfna5h",10116,RGD:727871
+GUCY1A2,66012,guanylate cyclase 1 soluble subunit alpha 2,Gucy1a2,,10116,RGD:621655
+HCAR2,353250,hydroxycarboxylic acid receptor 2,Hcar2,"Gpr109a, Gpr109b, Hm74, Hm74b, Niacr1",10116,RGD:727952
+HCN1,84390,hyperpolarization-activated cyclic nucleotide-gated potassium channel 1,Hcn1,,10116,RGD:620688
+HIVEP1,117140,HIVEP zinc finger 1,Hivep1,,10116,RGD:727847
+HS3ST1,84406,heparan sulfate-glucosamine 3-sulfotransferase 1,Hs3st1,3OST-I,10116,RGD:71084
+IFT80,295106,intraflagellar transport 80,Ift80,"RGD1312006, Wdr56",10116,RGD:1312006
+IGSF9B,315510,"immunoglobulin superfamily, member 9B",Igsf9b,RGD1564717,10116,RGD:1564717
+IMMP2L,100359529,inner mitochondrial membrane peptidase subunit 2,Immp2l,,10116,RGD:2323665
+IMPA2,282636,inositol monophosphatase 2,Impa2,,10116,RGD:628692
+INSYN1,501007,inhibitory synaptic factor 1,Insyn1,RGD1562618,10116,RGD:1562618
+IPO9,304817,importin 9,Ipo9,,10116,RGD:1310537
+IQCE,304318,IQ motif containing E,Iqce,RGD1311349,10116,RGD:1311349
+ITIH3,50693,"inter-alpha trypsin inhibitor, heavy chain 3",Itih3,PAIHC3,10116,RGD:620633
+KAT2B,301164,lysine acetyltransferase 2B,Kat2b,"AABR07066180.1, Pcaf",10116,RGD:1305902
+KAZN,313672,"kazrin, periplakin interacting protein",Kazn,Kaz,10116,RGD:1359147
+KCNA3,29731,potassium voltage-gated channel subfamily A member 3,Kcna3,,10116,RGD:2951
+KCNB1,25736,potassium voltage-gated channel subfamily B member 1,Kcnb1,"DRK1PC, Kcr1-1, Kv2.1, Shab",10116,RGD:2954
+KCNB2,117105,potassium voltage-gated channel subfamily B member 2,Kcnb2,Kv2.2,10116,RGD:621349
+KDM3B,682469,lysine demethylase 3B,Kdm3b,,10116,RGD:1583423
+KIT,64030,KIT proto-oncogene receptor tyrosine kinase,Kit,,10116,RGD:620568
+KIZ,311502,kizuna centrosomal protein,Kiz,"Ncrna00153, Plk1s1, RGD1307071",10116,RGD:1307071
+L3MBTL2,300320,L3MBTL histone methyl-lysine binding protein 2,L3mbtl2,,10116,RGD:1308569
+SNORA70,120094444,small nucleolar RNA SNORA70,LOC120094444,SNORA70,10116,RGD:41127254
+LAMC3,311862,laminin subunit gamma 3,Lamc3,,10116,RGD:1309399
+LCA5,300866,lebercilin LCA5,Lca5,RGD1308555,10116,RGD:1308555
+LGR6,498233,leucine-rich repeat-containing G protein-coupled receptor 6,Lgr6,RGD1560339,10116,RGD:1560339
+LHX2,296706,LIM homeobox 2,Lhx2,"LH2A, Lh-2",10116,RGD:71076
+LHX8,365963,LIM homeobox 8,Lhx8,Lhx7,10116,RGD:1308749
+LINGO1,315691,leucine rich repeat and Ig domain containing 1,Lingo1,Lrrn6a,10116,RGD:1308668
+LMAN2L,301343,"lectin, mannose-binding 2-like",Lman2l,,10116,RGD:1311393
+LMO7,361084,LIM domain 7,Lmo7,,10116,RGD:1302984
+LRFN5,314164,leucine rich repeat and fibronectin type III domain containing 5,Lrfn5,,10116,RGD:1309357
+LRRC20,499430,leucine rich repeat containing 20,Lrrc20,RGD1566140,10116,RGD:1566140
+LSAMP,29561,limbic system-associated membrane protein,Lsamp,,10116,RGD:71102
+LSM14A,361554,LSM14A mRNA processing body assembly factor,Lsm14a,RGD1305695,10116,RGD:1305695
+MAD1L1,680006,mitotic arrest deficient 1 like 1,Mad1l1,,10116,RGD:1596881
+MANBA,310864,mannosidase beta,Manba,,10116,RGD:1305785
+MAPT,29477,microtubule-associated protein tau,Mapt,"MAPT_0N4R, Mtapt, RNPTAU, Tau, pTau",10116,RGD:69329
+MDGA2,314180,MAM domain containing glycosylphosphatidylinositol anchor 2,Mdga2,Mamdc1,10116,RGD:735131
+MED24,619436,mediator complex subunit 24,Med24,Thrap4,10116,RGD:1564565
+MFAP3L,306424,microfibril associated protein 3 like,Mfap3l,,10116,RGD:1311274
+MGAM2,312272,maltase-glucoamylase 2,Mgam2,Mgam,10116,RGD:1308368
+MMRN1,500152,multimerin 1,Mmrn1,,10116,RGD:1587248
+MOB4,171050,"MOB family member 4, phocein",Mob4,"Mobkl1, Mobkl3, Phocn, Prei3, phocein",10116,RGD:620183
+MOCS2,294753,molybdenum cofactor synthesis 2,Mocs2,,10116,RGD:1359477
+MON1B,307868,"MON1 homolog B, secretory trafficking associated",Mon1b,RGD1309977,10116,RGD:1309977
+MPHOSPH9,288654,M-phase phosphoprotein 9,Mphosph9,,10116,RGD:1598368
+MROH5,500889,maestro heat-like repeat family member 5,Mroh5,"AABR07058412.1, RGD1559695",10116,RGD:1559695
+MTCH2,295922,mitochondrial carrier 2,Mtch2,Hspc032,10116,RGD:1308080
+MYH15,303965,"myosin, heavy chain 15",Myh15,RGD1565858,10116,RGD:1565858
+MYO18A,360570,myosin XVIIIa,Myo18a,,10116,RGD:1562698
+MYO1H,687866,myosin IH,Myo1h,AABR07036550.1,10116,RGD:1596237
+NAA11,289482,"N(alpha)-acetyltransferase 11, NatA catalytic subunit",Naa11,Ard1b,10116,RGD:1564723
+NAA40,361718,"N(alpha)-acetyltransferase 40, NatD catalytic subunit",Naa40,"Nat11, RGD1565838",10116,RGD:1565838
+NCAM1,24586,neural cell adhesion molecule 1,Ncam1,"Cd56, N-CAM, N-CAM-1, NCAM-1, NCAM-C",10116,RGD:67378
+NDRG1,299923,N-myc downstream regulated 1,Ndrg1,Ndr1,10116,RGD:1307303
+NECTIN1,192183,nectin cell adhesion molecule 1,Nectin1,"HveC, Pvrl1, nectin-1",10116,RGD:620791
+NFATC2,311658,nuclear factor of activated T-cells 2,Nfatc2,,10116,RGD:1307690
+NGEF,246217,neuronal guanine nucleotide exchange factor,Ngef,Besh3,10116,RGD:1309055
+NHLRC2,307986,NHL repeat containing 2,Nhlrc2,,10116,RGD:1307348
+NKAIN2,102551716,sodium/potassium transporting ATPase interacting 2,Nkain2,,10116,RGD:7740967
+NOS1,24598,nitric oxide synthase 1,Nos1,bNOS,10116,RGD:3184
+NPAS3,299016,neuronal PAS domain protein 3,Npas3,,10116,RGD:1307181
+NRGN,64356,neurogranin,Nrgn,"BICKS, RC3",10116,RGD:61833
+NT5C2,100363253,"5'-nucleotidase, cytosolic II",Nt5c2,,10116,RGD:2323387
+NTRK2,25054,neurotrophic receptor tyrosine kinase 2,Ntrk2,"RATTRKB1, TRKB1, Tkrb, trk-B, trkB",10116,RGD:3213
+NUBPL,299008,NUBP iron-sulfur cluster assembly factor like,Nubpl,RGD1307232,10116,RGD:1307232
+NXPH1,25501,neurexophilin 1,Nxph1,,10116,RGD:3218
+NXPH4,59316,neurexophilin 4,Nxph4,Nph4,10116,RGD:628723
+OLFM4,290409,olfactomedin 4,Olfm4,,10116,RGD:1311708
+OPCML,116597,opioid binding protein/cell adhesion molecule-like,Opcml,,10116,RGD:620635
+OR14J1,365523,olfactory receptor family 14 subfamily J member 1,Or14j1,Olr1693,10116,RGD:1333127
+OR8A1,405971,olfactory receptor family 8 subfamily A member 1,Or8a1,Olr1195,10116,RGD:1332735
+OSBPL3,362360,oxysterol binding protein-like 3,Osbpl3,RGD1564287,10116,RGD:1564287
+OTOR,366206,otoraplin,Otor,,10116,RGD:1305253
+OTUD7B,310677,OTU deubiquitinase 7B,Otud7b,RGD1308111,10116,RGD:1308111
+PAFAH1B1,83572,"platelet-activating factor acetylhydrolase 1b, regulatory subunit 1",Pafah1b1,LIS1,10116,RGD:620331
+PALS2,362359,"protein associated with LIN7 2, MAGUK p55 family member",Pals2,Mpp6,10116,RGD:1311833
+PAX6,25509,paired box 6,Pax6,,10116,RGD:3258
+PCDHA1,393085,protocadherin alpha 1,Pcdha1,rCNRv01,10116,RGD:735016
+PCDHA2,393086,protocadherin alpha 2,Pcdha2,rCNRv02,10116,RGD:735182
+PCDHA3,116780,protocadherin alpha 3,Pcdha3,,10116,RGD:620336
+PCDHA4,116741,protocadherin alpha 4,Pcdha4,"Cnr1, Pcdha1, Pcdha10, Pcdha11, Pcdha12",10116,RGD:620337
+PCDHA5,393087,protocadherin alpha 5,Pcdha5,rCNRv05,10116,RGD:735200
+PCDHA6,393088,protocadherin alpha 6,Pcdha6,rCNRv06,10116,RGD:735165
+PCDHA7,393089,protocadherin alpha 7,Pcdha7,rCNRv07,10116,RGD:735055
+PCDHA8,116781,protocadherin alpha 8,Pcdha8,,10116,RGD:620338
+PCLO,56768,piccolo (presynaptic cytomatrix protein),Pclo,aczonin,10116,RGD:69406
+PDE4B,24626,phosphodiesterase 4B,Pde4b,"PDE4/IVb, Pde4B1, Pde4B2, Pde4B3, Pde4B4",10116,RGD:3280
+PDE4D,24627,phosphodiesterase 4D,Pde4d,"DPDE3, PDE3/IVd",10116,RGD:3281
+PFKFB3,117276,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3",Pfkfb3,,10116,RGD:619776
+PKD1L1,289796,"polycystin 1 like 1, transient receptor potential channel interacting",Pkd1l1,"RGD1564724, RGD1566034",10116,RGD:1564724
+PKP1,304822,plakophilin 1,Pkp1,,10116,RGD:1307472
+PLCL1,84587,phospholipase C-like 1,Plcl1,,10116,RGD:708420
+PLCL2,301173,phospholipase C-like 2,Plcl2,,10116,RGD:1305941
+PLEKHG1,679812,pleckstrin homology and RhoGEF domain containing G1,Plekhg1,,10116,RGD:1583676
+PMFBP1,171414,polyamine modulated factor 1 binding protein 1,Pmfbp1,"ODF3, Stap",10116,RGD:621677
+POGK,304941,pogo transposable element derived with KRAB domain,Pogk,,10116,RGD:1308951
+POU1F1,25517,POU class 1 homeobox 1,Pou1f1,"GHF1, GHF1A, PIT1Z, Pit1",10116,RGD:3367
+PPP1R13B,314465,"protein phosphatase 1, regulatory subunit 13B",Ppp1r13b,,10116,RGD:1304651
+PPP1R16B,680616,"protein phosphatase 1, regulatory subunit 16B",Ppp1r16b,,10116,RGD:1589460
+PPP2R2B,60660,"protein phosphatase 2, regulatory subunit B, beta",Ppp2r2b,Pppr2b2,10116,RGD:631441
+PRAG1,306506,PEAK1 related kinase activating pseudokinase 1,Prag1,"Pragmin, RGD1311793",10116,RGD:1311793
+PRICKLE2,312563,prickle planar cell polarity protein 2,Prickle2,,10116,RGD:1306723
+PRKCA,24680,"protein kinase C, alpha",Prkca,Pkca,10116,RGD:3395
+PRKN,56816,parkin RBR E3 ubiquitin protein ligase,Prkn,"Park, Park2",10116,RGD:61797
+PRTFDC1,291355,phosphoribosyl transferase domain containing 1,Prtfdc1,,10116,RGD:1310177
+PTBP3,83515,polypyrimidine tract binding protein 3,Ptbp3,Rod1,10116,RGD:621671
+PTCH1,89830,patched 1,Ptch1,"Ptch, Ptch2",10116,RGD:621425
+PTH2R,81753,parathyroid hormone 2 receptor,Pth2r,Pthr2,10116,RGD:620612
+PTPRC,24699,"protein tyrosine phosphatase, receptor type, C",Ptprc,"CD45, L-CA, Lca, RT7, T200",10116,RGD:3451
+PTPRF,360406,"protein tyrosine phosphatase, receptor type, F",Ptprf,LARFN5C,10116,RGD:3453
+PTPRT,362263,"protein tyrosine phosphatase, receptor type, T",Ptprt,,10116,RGD:1309653
+RAD51,499870,RAD51 recombinase,Rad51,RGD1563603,10116,RGD:1563603
+RAN,84509,"RAN, member RAS oncogene family",Ran,,10116,RGD:620367
+RASSF1,363140,Ras association domain family member 1,Rassf1,,10116,RGD:1359383
+RBFOX1,302920,RNA binding fox-1 homolog 1,Rbfox1,A2bp1,10116,RGD:1311210
+RBM17,291295,RNA binding motif protein 17,Rbm17,,10116,RGD:1311208
+RCOR2,305811,REST corepressor 2,Rcor2,,10116,RGD:1359467
+RERE,116665,arginine-glutamic acid dipeptide repeats,Rere,Arp,10116,RGD:629475
+RGS6,54295,regulator of G-protein signaling 6,Rgs6,,10116,RGD:3569
+RHOJ,299145,ras homolog family member J,Rhoj,,10116,RGD:1310528
+RIMS1,84556,regulating synaptic membrane exocytosis 1,Rims1,"RIM1a, Rim1",10116,RGD:620000
+RPS19BP1,500907,ribosomal protein S19 binding protein 1,Rps19bp1,RGD1562823,10116,RGD:1562823
+RPS6KL1,299202,ribosomal protein S6 kinase-like 1,Rps6kl1,,10116,RGD:1309493
+RPTOR,287871,"regulatory associated protein of MTOR, complex 1",Rptor,RGD1311784,10116,RGD:1311784
+RSRC1,361956,arginine and serine rich coiled-coil 1,Rsrc1,"RGD1304968, SRrp53",10116,RGD:1304968
+RTN1,116644,reticulon 1,Rtn1,Nsp,10116,RGD:620986
+SDC2,25615,syndecan 2,Sdc2,HSPG,10116,RGD:3649
+SDK1,304297,sidekick cell adhesion molecule 1,Sdk1,RGD1560686,10116,RGD:1560686
+SDK2,360652,sidekick cell adhesion molecule 2,Sdk2,,10116,RGD:1310397
+SEC61G,689134,Sec61 translocon subunit gamma,Sec61g,,10116,RGD:1596170
+SEMA3E,296789,semaphorin 3E,Sema3e,,10116,RGD:1310973
+SGCD,497892,"sarcoglycan, delta",Sgcd,,10116,RGD:1306638
+SH3BGRL2,501026,SH3 domain binding glutamate-rich protein like 2,Sh3bgrl2,,10116,RGD:1591931
+SHISA9,100361134,shisa family member 9,Shisa9,,10116,RGD:2320726
+SHMT2,299857,serine hydroxymethyltransferase 2,Shmt2,,10116,RGD:1308582
+SHOC2,309548,SHOC2 leucine-rich repeat scaffold protein,Shoc2,,10116,RGD:1308146
+SIPA1L1,246212,signal-induced proliferation-associated 1 like 1,Sipa1l1,"SPAL, Spa-1, Spa1, Spar",10116,RGD:708497
+SIPA1L2,361442,signal-induced proliferation-associated 1 like 2,Sipa1l2,"Sersap2, Spar2",10116,RGD:1306269
+SLC16A14,316578,"solute carrier family 16, member 14",Slc16a14,,10116,RGD:1309675
+SLC30A9,498358,solute carrier family 30 member 9,Slc30a9,,10116,RGD:1593180
+SLC39A8,295455,solute carrier family 39 member 8,Slc39a8,,10116,RGD:1308236
+SLC4A5,84484,solute carrier family 4 member 4,Slc4a4,"HHNMC, HNBC1, KNBC, NBC2, Nbc1",10116,RGD:68936
+SLCO1B3,58978,solute carrier organic anion transporter family member 1B2,Slco1b2,"OATP-4, Oatp4, Slc21a10, Slco1b3, rlst-1",10116,RGD:69300
+SLCO1C1,84511,"solute carrier organic anion transporter family, member 1c1",Slco1c1,"Bsat1, Oatp14, Slc21a14",10116,RGD:628660
+SMAD1,25671,SMAD family member 1,Smad1,Madh1,10116,RGD:3030
+SMOX,308652,spermine oxidase,Smox,,10116,RGD:1306049
+SNAP91,65178,synaptosome associated protein 91,Snap91,Ap180,10116,RGD:69276
+SNX19,315478,sorting nexin 19,Snx19,,10116,RGD:1309857
+SORCS3,294043,sortilin-related VPS10 domain containing receptor 3,Sorcs3,,10116,RGD:1310974
+SOX5,140587,SRY-box transcription factor 5,Sox5,Sox5l1,10116,RGD:620471
+SOX6,293165,SRY-box transcription factor 6,Sox6,,10116,RGD:1309000
+SP110,301570,SP110 nuclear body protein,Sp110,,10116,RGD:1310173
+SP4,25162,Sp4 transcription factor,Sp4,HF-1b,10116,RGD:3741
+SPAG16,501158,sperm associated antigen 16,Spag16,RGD1565062,10116,RGD:1565062
+SPP2,94168,secreted phosphoprotein 2,Spp2,,10116,RGD:708488
+SPPL3,360822,signal peptide peptidase like 3,Sppl3,"RGD1562826, Sppl3-ps1",10116,RGD:1562826
+SRPK2,296753,SRSF protein kinase 2,Srpk2,,10116,RGD:1305107
+STAG1,315958,stromal antigen 1,Stag1,,10116,RGD:1310744
+SYNE2,366669,spectrin repeat containing nuclear envelope protein 2,Syne2,"AABR07064873.1, RGD1305248",10116,RGD:1305248
+TAFA2,680647,TAFA chemokine like family member 2,Tafa2,Fam19a2,10116,RGD:1589429
+TBC1D2,313234,"TBC1 domain family, member 2",Tbc1d2,,10116,RGD:1306860
+TCAIM,363169,"T cell activation inhibitor, mitochondrial",Tcaim,"RGD1560717, TOAG-1, Toag1",10116,RGD:1560717
+TCF20,366964,transcription factor 20,Tcf20,"AR1, SPBP",10116,RGD:1594486
+TCF4,84382,transcription factor 4,Tcf4,,10116,RGD:69271
+TENM2,117242,teneurin transmembrane protein 2,Tenm2,"Lasso, Odz2",10116,RGD:727907
+TENM3,306451,teneurin transmembrane protein 3,Tenm3,Odz3,10116,RGD:1306641
+TERF1,297758,telomeric repeat binding factor 1,Terf1,,10116,RGD:1311574
+TFAP2B,301285,transcription factor AP-2 beta,Tfap2b,Tcfap2b,10116,RGD:1306321
+THOC7,305714,THO complex subunit 7,Thoc7,RGD1305475,10116,RGD:1305475
+TLL1,678743,tolloid-like 1,Tll1,Tll,10116,RGD:1306120
+TLR4,29260,toll-like receptor 4,Tlr4,,10116,RGD:3870
+TMEM106B,312132,transmembrane protein 106B,Tmem106b,LRRGT00101,10116,RGD:1303037
+TMEM132D,288750,transmembrane protein 132D,Tmem132d,MOLT,10116,RGD:735062
+TMEM219,308986,transmembrane protein 219,Tmem219,RGD1560566,10116,RGD:1560566
+TMPRSS5,266681,transmembrane serine protease 5,Tmprss5,Amp,10116,RGD:628625
+TMPRSS9,314636,transmembrane serine protease 9,Tmprss9,,10116,RGD:1309581
+TNFRSF21,316256,TNF receptor superfamily member 21,Tnfrsf21,,10116,RGD:1307308
+TNXB,415089,tenascin XB,Tnxb,Tnx,10116,RGD:1594402
+TRIM8,688785,tripartite motif-containing 8,Trim8,,10116,RGD:1585223
+TRMT9B,306504,tRNA methyltransferase 9B (putative),Trmt9b,RGD1304810,10116,RGD:1304810
+TRPC4,84494,"transient receptor potential cation channel, subfamily C, member 4",Trpc4,"Trp4, Trrp4",10116,RGD:621276
+TSKS,292890,testis-specific serine kinase substrate,Tsks,Stk22s1,10116,RGD:727784
+TSNARE1,103692937,t-SNARE domain containing 1,Tsnare1,,10116,RGD:9421138
+TTC7B,362768,tetratricopeptide repeat domain 7B,Ttc7b,,10116,RGD:1305920
+TUBB3,246118,"tubulin, beta 3 class III",Tubb3,,10116,RGD:628595
+TUBGCP5,308663,"tubulin, gamma complex associated protein 5",Tubgcp5,,10116,RGD:1304689
+TUSC3,290783,tumor suppressor candidate 3,Tusc3,,10116,RGD:1303318
+UNC13C,286931,unc-13 homolog C,Unc13c,Unc13h3,10116,RGD:628592
+USP25,304150,ubiquitin specific peptidase 25,Usp25,,10116,RGD:1309003
+UST,361450,uronyl-2-sulfotransferase,Ust,,10116,RGD:1304743
+VPS45,64516,vacuolar protein sorting 45 homolog,Vps45,Vsp45a,10116,RGD:621267
+VRK2,360991,VRK serine/threonine kinase 2,Vrk2,,10116,RGD:1311585
+VWDE,502731,von Willebrand factor D and EGF domains,Vwde,RGD1561223,10116,RGD:1561223
+WDR7,66031,WD repeat domain 7,Wdr7,"Trag, Wd7",10116,RGD:619836
+XKR6,305960,XK related 6,Xkr6,"RGD1310719, XRG6",10116,RGD:1310719
+Y_RNA,,Y RNA,Y_RNA,,10116,
+YLPM1,299199,YLP motif containing 1,Ylpm1,"RGD1564946, Zap, Zap3",10116,RGD:1564946
+ZBTB20,288105,zinc finger and BTB domain containing 20,Zbtb20,RGD1560387,10116,RGD:1560387
+ZC3H7B,315158,zinc finger CCCH-type containing 7B,Zc3h7b,RGD1307064,10116,RGD:1307064
+ZCCHC7,298086,zinc finger CCHC-type containing 7,Zcchc7,,10116,RGD:1310467
+ZDHHC14,499014,zinc finger DHHC-type palmitoyltransferase 14,Zdhhc14,Dhhc14,10116,RGD:1565877
+ZDHHC5,362156,zinc finger DHHC-type palmitoyltransferase 5,Zdhhc5,DHHC-5,10116,RGD:1589737
+ZNF184,306966,zinc finger protein 184,Zfp184,Znf184,10116,RGD:1304798
+ZNF804A,295695,zinc finger protein 804A,Zfp804a,"RGD1305239, Znf804a",10116,RGD:1305239
+ZFPM2,314930,"zinc finger protein, multitype 2",Zfpm2,FOG-2,10116,RGD:1306021
+ZMAT3,64394,"zinc finger, matrin type 3",Zmat3,"PAG608, Wig1",10116,RGD:620134
+ZMYM4,313598,zinc finger MYM-type containing 4,Zmym4,Zfp262,10116,RGD:1309545
+ABCA9-AS1,,,,,,
+ACTG1P22,,,,,,
+ADH5P4,,,,,,
+C3ORF80,,,,,,
+CACYBPP2,,,,,,
+CCT4P1,,,,,,
+CDKN2B-AS1,,,,,,
+CHCHD2P3,,,,,,
+CLEC18B,,,,,,
+CNN2P10,,,,,,
+DHFRP5,,,,,,
+DPP3P1,,,,,,
+EEF1A1P11,,,,,,
+EIF4EBP2P3,,,,,,
+FAM120AOS,,,,,,
+FECHP1,,,,,,
+FOLH1B,,,,,,
+FTCDNL1,,,,,,
+FTLP18,,,,,,
+GPM6A-DT,,,,,,
+GRM3-AS1,,,,,,
+GULOP,,,,,,
+H3P40,,,,,,
+HCAR3,,,,,,
+HLA-B,,,,,,
+HLA-DRB5,,,,,,
+HNRNPA1P55,,,,,,
+HSPA9P1,,,,,,
+HSPD1P6,,,,,,
+HSPE1-MOB4,,,,,,
+HYI-AS1,,,,,,
+IGBP1P5,,,,,,
+KC6,,,,,,
+KIAA1109,,,,,,
+KIZ-AS1,,,,,,
+KPNB1-DT,,,,,,
+KRT8P21,,,,,,
+L3MBTL2-AS1,,,,,,
+LAPTM4A-DT,,,,,,
+LIN28AP1,,,,,,
+LINC00461,,,,,,
+LINC00578,,,,,,
+LINC00616,,,,,,
+LINC00702,,,,,,
+LINC00861,,,,,,
+LINC01023,,,,,,
+LINC01052,,,,,,
+LINC01088,,,,,,
+LINC01122,,,,,,
+LINC01239,,,,,,
+LINC01360,,,,,,
+LINC01416,,,,,,
+LINC01433,,,,,,
+LINC01470,,,,,,
+LINC01499,,,,,,
+LINC01500,,,,,,
+LINC01526,,,,,,
+LINC01581,,,,,,
+LINC01623,,,,,,
+LINC01645,,,,,,
+LINC01646,,,,,,
+LINC01680,,,,,,
+LINC01830,,,,,,
+LINC01876,,,,,,
+LINC01929,,,,,,
+LINC01938,,,,,,
+LINC01987,,,,,,
+LINC01990,,,,,,
+LINC02033,,,,,,
+LINC02057,,,,,,
+LINC02085,,,,,,
+LINC02101,,,,,,
+LINC02163,,,,,,
+LINC02172,,,,,,
+LINC02191,,,,,,
+LINC02240,,,,,,
+LINC02251,,,,,,
+LINC02260,,,,,,
+LINC02321,,,,,,
+LINC02360,,,,,,
+LINC02395,,,,,,
+LINC02450,,,,,,
+LINC02497,,,,,,
+LINC02520,,,,,,
+LINC02571,,,,,,
+LINC02609,,,,,,
+LINC02690,,,,,,
+LINC02694,,,,,,
+LINC02743,,,,,,
+LINC02763,,,,,,
+LINC02770,,,,,,
+LINC02774,,,,,,
+LINC02790,,,,,,
+LINC02797,,,,,,
+MAPT-IT1,,,,,,
+MCFD2P1,,,,,,
+MEF2C-AS1,,,,,,
+MIR124-1HG,,,,,,
+MIR1302-7,,,,,,
+MIR2113,,,,,,
+MIR3166,,,,,,
+MIR4318,,,,,,
+MIR4719,,,,,,
+MIR5007,,,,,,
+MIR548AE1,,,,,,
+MIR7154,,,,,,
+MTCO3P27,,,,,,
+MYCNOS,,,,,,
+NDUFS6P1,,,,,,
+NOP56P1,,,,,,
+NPM1P10,,,,,,
+NUFIP1P1,,,,,,
+OR2U2P,,,,,,
+OR5AZ1P,,,,,,
+OR5BA1P,,,,,,
+PAUPAR,,,,,,
+PCGEM1,,,,,,
+PKN2-AS1,,,,,,
+PPM1AP1,,,,,,
+PTMAP6,,,,,,
+PTPRVP,,,,,,
+PXDNL,,,,,,
+R3HDM2P2,,,,,,
+RAD23BP3,,,,,,
+RERE-AS1,,,,,,
+RN7SKP19,,,,,,
+RN7SKP62,,,,,,
+RN7SL101P,,,,,,
+RN7SL117P,,,,,,
+RN7SL167P,,,,,,
+RN7SL178P,,,,,,
+RN7SL299P,,,,,,
+RN7SL44P,,,,,,
+RN7SL717P,,,,,,
+RN7SL831P,,,,,,
+RNA5SP106,,,,,,
+RNA5SP87,,,,,,
+RNU1-130P,,,,,,
+RNU1-63P,,,,,,
+RNU6-1246P,,,,,,
+RNU6-209P,,,,,,
+RNU6-334P,,,,,,
+RNU6-699P,,,,,,
+RNU6-765P,,,,,,
+RNU6-929P,,,,,,
+RNU7-160P,,,,,,
+RPL21P17,,,,,,
+RPL23AP28,,,,,,
+RPL31P12,,,,,,
+RPL31P35,,,,,,
+RPL3P8,,,,,,
+RPL7P44,,,,,,
+RPLP0P1,,,,,,
+RPS16P2,,,,,,
+RPS17P5,,,,,,
+RPS20P12,,,,,,
+S100A7,,,,,,
+SATB1-AS1,,,,,,
+SLC44A3P1,,,,,,
+SLC7A11-AS1,,,,,,
+SNHG14,,,,,,
+SNRPFP3,,,,,,
+SOX21-AS1,,,,,,
+SUMO2P2,,,,,,
+TMEM161B-DT,,,,,,
+TMEM242-DT,,,,,,
+UFL1-AS1,,,,,,
+VENTXP7,,,,,,
+YWHABP1,,,,,,
+YWHAQP1,,,,,,
+ZBED9,,,,,,
+ZBTB20-AS1,,,,,,
+ZDHHC20P4,,,,,,
+ZKSCAN2-DT,,,,,,
+ZNF804B,,,,,,
+ZNF813,,,,,,
+ZSCAN31,,,,,,
